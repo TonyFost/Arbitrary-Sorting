@@ -1,4 +1,7 @@
 <html>
+  <head>
+  <script src="myScript.js"></script>
+  </head>
 <body>
 
 <h2>My First JavaScript</h2>
