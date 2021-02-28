@@ -8,7 +8,5 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-<script src="myScript.js"></script>
-
 </body>
 </html> 
